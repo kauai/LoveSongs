@@ -249,7 +249,7 @@ h1,h2{
 }
 
 
-@media(max-width:400px) {
+@media(max-width:480px) {
   .ico:before, .ico:after, .ico2:before, .ico2:after {
     position: absolute;
     top: 0;
